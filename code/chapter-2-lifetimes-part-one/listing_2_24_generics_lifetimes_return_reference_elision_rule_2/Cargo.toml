@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_24_generics_lifetimes_return_reference_elision_rule_2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

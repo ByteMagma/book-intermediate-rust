@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_15_method_returning_struct_field"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

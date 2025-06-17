@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_21_constructor_function_with_explicit_lifetimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

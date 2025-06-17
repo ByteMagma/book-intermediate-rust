@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_13_different_lifetime_annotations"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_25_generic_struct_with_type_lifetime_parameters"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

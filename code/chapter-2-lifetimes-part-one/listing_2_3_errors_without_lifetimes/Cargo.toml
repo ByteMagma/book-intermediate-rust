@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_3_errors_without_lifetimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

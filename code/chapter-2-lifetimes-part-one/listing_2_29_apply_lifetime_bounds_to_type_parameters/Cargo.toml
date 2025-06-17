@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_29_apply_lifetime_bounds_to_type_parameters"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

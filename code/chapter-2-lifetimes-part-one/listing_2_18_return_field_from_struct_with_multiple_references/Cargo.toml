@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_18_return_field_from_struct_with_multiple_references"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

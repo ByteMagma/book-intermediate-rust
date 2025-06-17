@@ -1,5 +1,5 @@
 [package]
-name = "hello_world"
+name = "listing_2_9_lifetimes_with_structs"
 version = "0.1.0"
 edition = "2024"
 

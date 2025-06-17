@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_26_owned_borrowed_mixed_types"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

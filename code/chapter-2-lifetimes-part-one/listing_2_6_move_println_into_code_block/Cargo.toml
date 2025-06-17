@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_6_move_println_into_code_block"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

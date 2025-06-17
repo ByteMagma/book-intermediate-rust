@@ -1,0 +1,6 @@
+[package]
+name = "listing_2_7_two_references_with_different_lifetimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
